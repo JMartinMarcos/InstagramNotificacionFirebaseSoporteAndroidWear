@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_e44c273731525ab747d4ffe1ad96302de8012707/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_e39498ff0cc081c95558952b19e74a652042661b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_8bb5b0e44079d29d2ad3f7685be53cedf78518b0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2c811c22916d8475e2e962a2ac7cc0966164d1d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.1_c48c2977ad08d9bb09c1318a4af8200885951414/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.0_085d894a7b3ef3192e1d05edc24a1f541957befb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-activation/1.5.5/5442d5e05808145434b750c9f8a0c3f537383c5a/android-activation-1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-activation-1.5.5_c2435a8957c8567ebc1304a4208647bcd6f55214/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.1_f2d86080536b4579f30bb3c72b2bf913869c8d67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_3519e06216c264bdabcd450b9f4a6c8ff572f76e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_9cd62099dc5d5c3e86ea9068c5b6b0dfd3375996/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.1_5af7722f23ab1ef305f7627c4051dd7785b84bbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.1_d392f71c6ee51adad4dc36247ad9fdcb84e2bfd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/.gradle/caches/modules-2/files-2.1/com.sun.mail/android-mail/1.5.5/53a2f927b235acb565dbe9314ececfb7e6d43020/android-mail-1.5.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-mail-1.5.5_32f9f863f9bfdbb9b9d6aae262f2d2642591e397/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_6130221c3ee60ca387931edfec71d4f173f9183a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_393c012f0cde090bffc8d1f675aed4422fecb780/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.1_56a048f3baa1777f6b16f3914c1b76f415ee548c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81f4d28c23f90c120f2a909f553cb35a3b38c0dd">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9da73b27fc2f5593bd4bb50ef5809770acd8c3ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.1_b2ea97d4c968afc570aafd91c1d6dd9b7e2b2800/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_f776190336e09ffc20b2436f090fa815951bf0ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.1_6e7efa035dd25bd81e3b52f86733c0766a7397c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_95b1d390f524ac947adddfe71cc28eedafbfc7d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_bdfcc71def30679a97b73fc6ae6f875102c6f98a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_8498f4347ae162d2b1fd77d94beafbfc4db560c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_789ecbbe39a73246a6b4f4216b11f7c6c8d0311d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.1.0_7875ddbc00cdd07dae04253e13a605477ddd7e01/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_4a40dd11fa275e55b8b63da1eb4d34aee9509160/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_2c6c90596e47e7f811720a055a92b1672f0645da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="398c153b656a6b0273745765c69e400b07c5146e">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9aad133a143f6bd566ac8ceac11d4bdbcfe469c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_e92a5ded4d5e79c7f13142aed0db7cb4e5ab856d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.0_b2f48be7e3de3f51372a31b53da1e2f006f76079/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_048d3e399221debda5395b9cad593a0340466647/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_7ccfe68246da9f0f9a035124eb00a8993aa536fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_65114374332e77a7164f0dfd3fef7e8c0f337cfd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.1.0_f9c3dec4879b4bb7d40ab6a2fcb898062e0cab1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.mikhaellopez/circularimageview/3.0.2/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.mikhaellopez-circularimageview-3.0.2_5e39d6ef3c31ac7900778ad43aa4d6e22c2f396f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_08f18f290df7544fadaf1cc1d6577da06ac30b61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/sath/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/home/sath/AndroidStudioProjects/MascotasPreferidas_WEBSERVICE_HEROKU_FIREBASE_CLOUD/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_a11b00b45a76183deb1aa97825df1b0bd7647779/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cvMascota"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    card_view:cardCornerRadius="@dimen/cardview_default_radius">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imgImagen"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:src="@drawable/cute_dog_dogs_33531409_1440_900"
+            android:scaleType="centerCrop"
+            android:contentDescription="@string/Descripcion_Foto_Mascota" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="45dp"
+                android:layout_height="45dp"
+                android:id="@+id/imgHuesoLike"
+                android:src="@drawable/dog_bone_48"
+                android:scaleType="centerCrop"
+                android:layout_alignParentLeft="true"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp" />
+
+            <ImageView
+                android:layout_height="45dp"
+                android:id="@+id/imgHuesoRaiting"
+                android:src="@drawable/dog_bone_48_color"
+                android:scaleType="centerCrop"
+                android:gravity="right|end"
+                android:layout_marginLeft="5dp"
+                android:adjustViewBounds="false"
+                android:cropToPadding="false"
+                android:layout_width="45dp"
+                android:layout_alignParentRight="true" />
+
+            <TextView
+                android:id="@+id/txtNombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/nombre_mascota"
+                android:textSize="@dimen/cardview_text"
+                android:foregroundGravity="center_vertical"
+                android:gravity="center_vertical"
+                android:layout_gravity="center_vertical|center_horizontal"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_centerVertical="true"
+                android:layout_toEndOf="@+id/imgHuesoLike" />
+
+            <TextView
+                android:id="@+id/txtRaiting"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="6666666"
+                android:textSize="24sp"
+                android:layout_gravity="center_vertical"
+                android:layout_centerVertical="true"
+                android:layout_toStartOf="@+id/imgHuesoRaiting" />
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>

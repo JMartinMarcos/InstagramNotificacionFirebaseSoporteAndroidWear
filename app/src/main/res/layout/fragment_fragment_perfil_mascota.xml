@@ -1,0 +1,36 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.practica.jmm.mascotaspreferidas.fragment.FragmentPerfilMascota">
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/cute_dog_dogs_33531409_1440_900"
+        app:civ_border_color="#1d14b7"
+        app:civ_border_width="4dp"
+        app:civ_shadow="true"
+        app:civ_shadow_radius="10"
+        app:civ_shadow_color="#060745"
+        android:id="@+id/fotoPerfil"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/activity_vertical_margin"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:layout_scrollFlags="scroll|enterAlways"
+        xmlns:android="http://schemas.android.com/apk/res/android"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtNombrePerfil"
+        android:text="Bruto"
+        android:textStyle="normal|bold"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <include layout="@layout/content_main"/>
+
+</LinearLayout>
+

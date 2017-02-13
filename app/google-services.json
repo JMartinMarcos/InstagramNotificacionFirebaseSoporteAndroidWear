@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "68840920674",
+    "firebase_url": "https://masscotascoursera.firebaseio.com",
+    "project_id": "masscotascoursera",
+    "storage_bucket": "masscotascoursera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68840920674:android:3594e6b3e3b61113",
+        "android_client_info": {
+          "package_name": "com.practica.jmm.mascotaspreferidas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68840920674-t51vq40ntq78itb2tt8r8jbvqpapnorm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Iy0D3nk2Xi7QuWfcFm1fWPH3oKHlbu0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68840920674-t51vq40ntq78itb2tt8r8jbvqpapnorm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
